@@ -1,3 +1,3 @@
 # Mi página web
 
-![screenshot](./img/screenshot.png)
+![screenshot](./images/screenshot.png)
